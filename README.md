@@ -7,3 +7,5 @@ The process also involves answering key questions such as:
 3.)What are the percentages for Product Category?
 4.)What are the percentages for Males and Females?
 5.)How many countries do we have?
+The data is then split for training and testing.
+Finally, four models are used to train and predict.
